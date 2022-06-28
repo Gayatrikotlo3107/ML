@@ -1,1 +1,2 @@
-# ML-LINERA REGRESSION BASIC PROJECT BY PIERIAN DATA
+Machine Learning -LINEAR REGRESSION
+Analysed whether the company neds to focus on their mobile app or website by using Linear regression 
